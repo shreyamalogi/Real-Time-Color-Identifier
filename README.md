@@ -56,9 +56,17 @@ You can use the provided `pic1.jpg` image for testing. The CSV file `colors.csv`
 
 ## Author
 
-This project was created by Shreya Malogi
+This project was created by Malogi Shreya
 
 Please note that this is a basic color detection application, and you can expand it further or integrate it into other projects as needed.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+MIT License
+
+Copyright (c) 2021 SHREYA MALOGI
 
 ## ⭐ Star and 🍴 Fork
 
