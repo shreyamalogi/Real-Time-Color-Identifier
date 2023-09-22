@@ -3,7 +3,7 @@
 
 ![Color Detection GIF](https://github.com/shreyamalogi/color-detector/blob/main/computer%20vision/Color%20detection/media/clrdetgif.gif)
 
-# Color Detection App
+# Real Time Color Detection App
 
 Overwhelmed by the frustration of inconsistent color matching in design work?
 
