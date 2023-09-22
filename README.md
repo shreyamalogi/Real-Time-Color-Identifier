@@ -5,8 +5,9 @@
 
 # Color Detection App
 
-This Python project allows you to detect and identify colors from an image using the OpenCV library and a CSV file containing color names and RGB values.
+Overwhelmed by the frustration of inconsistent color matching in design work?
 
+Well, This Python project allows you to detect and identify colors from an image using the OpenCV library and a CSV file containing color names and RGB values.
 
 ### Features
 
