@@ -1,7 +1,7 @@
 
 
 
-![Color Detection GIF](https://github.com/shreyamalogi/color-detector/blob/main/computer%20vision/Color%20detection/media/clrdetectiongif.gif)
+![Color Detection GIF](https://github.com/shreyamalogi/color-detector/blob/main/computer%20vision/Color%20detection/media/clrdetgif.gif)
 
 # Color Detection App
 
