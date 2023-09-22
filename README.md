@@ -56,7 +56,7 @@ You can use the provided `pic1.jpg` image for testing. The CSV file `colors.csv`
 
 ## Author
 
-This project was created by Malogi Shreya
+This project was created by Shreya Malogi
 
 Please note that this is a basic color detection application, and you can expand it further or integrate it into other projects as needed.
 
